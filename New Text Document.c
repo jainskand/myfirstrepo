@@ -1,6 +1,9 @@
 
 #include<stdio.h>
 void main()
- {
-	printf("HELLO WORLD, abc");
+ {int i;
+	for(i=1;i<=10;i++)
+	{
+		printf("i\n");		
+	}
  }
